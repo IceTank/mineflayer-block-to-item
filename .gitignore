@@ -3,3 +3,4 @@ versions
 servers
 jars
 package-lock.json
+data/**
