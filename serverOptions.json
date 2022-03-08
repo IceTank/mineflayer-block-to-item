@@ -1,0 +1,15 @@
+{
+  "motd": "test1234",
+  "max-players": 120,
+  "view-distance": 5,
+  "level-type": "FLAT",
+  "allow-nether": "false",
+  "allow-flight": "true",
+  "force-gamemode": "true",
+  "gamemode": "1",
+  "spawn-npcs": "false",
+  "spawn-animals": "false",
+  "online-mode": "false",
+  "spawn-monsters": "false",
+  "spawn-protection": "0"
+}
